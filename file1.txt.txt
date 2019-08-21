@@ -1,1 +1,5 @@
-file to create hello world
+class myclass{
+	public static void main(){
+		System.out.println("helloworld");
+	}
+}
