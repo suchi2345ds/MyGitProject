@@ -1,9 +1,9 @@
 class myclass{
 	public static void main(){
-		System.out.println("helloworld    to mux");
+		System.out.println("helloworld");
 		mymethod();
 	}
-	mymethod(){
+	public static mymethod(){
 		ystem.out.println(My Method called");
 	}
 }
