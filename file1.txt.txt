@@ -1,9 +1,9 @@
 class myclass{
-	public static void main(String ars){
+
+	private static void main(String ars){
 		System.out.println(ars);
-		mymethod();
 	}
-	mymethod(){
-		ystem.out.println(My Method called");
+	public static mymethod(){
+		System.out.println("My Method called");
 	}
 }
