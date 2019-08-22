@@ -2,6 +2,8 @@ class myclass{
 
 	private static void main(String ars){
 		System.out.println(ars);
+		myclass ob = new myclass();
+		ob.mymethod(); 
 	}
 	public static mymethod(){
 		System.out.println("My Method called");
