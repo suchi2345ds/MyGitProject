@@ -1,5 +1,9 @@
 class myclass{
 	public static void main(){
 		System.out.println("helloworld    to mux");
+		mymethod();
+	}
+	mymethod(){
+		ystem.out.println(My Method called");
 	}
 }
