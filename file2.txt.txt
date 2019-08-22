@@ -1,3 +1,5 @@
 file2
 
-remote changes
+Change 2
+
+Change 3
